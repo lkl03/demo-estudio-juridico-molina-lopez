@@ -1,2 +1,7 @@
-# demo-estudio-juridico-molina-lopez
-Demo web para ESTUDIO JURIDICO MOLINA LOPEZ — diseñada por eterlab.
+# ESTUDIO JURIDICO MOLINA LOPEZ
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
